@@ -1,7 +1,7 @@
 # ARK: Survival Evolved - Fjordur
 
 ## How to Connect
-The server address and password are posted in the [discord](https://discord.civitas.world/) and available to all members who tag themselves for the "ARK Players" group.
+The server address and password are posted in the [civitas.world Discord](https://discord.civitas.world/) and available to all members who tag themselves for the "ARK Players" group.
 
 ## Special Server Settings
 - All main-game engrams unlock automatically as you level.
