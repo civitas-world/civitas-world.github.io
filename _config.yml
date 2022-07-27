@@ -6,3 +6,5 @@ title: civitas.world docs
 description: documentation for the civitas.world game servers and community
 
 show_downloads: false
+
+theme: jekyll-theme-hacker
