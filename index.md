@@ -1,11 +1,11 @@
 ## What is civitas.world?
 We're a small community-oriented game server hosting group, organized primarily via our [discord server](https://discord.gg/TqNrfxav5G). We host games of interest to our community and some small technical projects related to developing them.
 
-## Games
-Currently running servers:
-- ARK: Survival Evolved
-- Minecraft 
+## Games and Servers
+- (ARK: Survival Evolved)[/ark/fjordur]
+- (Minecraft)[/minecraft/vanilla19]
 - Foundry Virtual Tabletop (available by schedule only)
+- FiveM (offline, development shelved for now)
 
 ## News
 ### 2022-07-27: Minecraft v1.19 server opening day
