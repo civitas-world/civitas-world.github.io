@@ -1,5 +1,5 @@
 ## What is civitas.world?
-We're a small community-oriented game server hosting group, organized primarily via our [discord server](https://discord.gg/TqNrfxav5G). We host games of interest to our community and some small technical projects related to developing them.
+We're a small community-oriented game server hosting group, organized primarily via our [discord server](https://discord.civitas.world). We host games of interest to our community and some small technical projects related to developing them.
 
 ## Games and Servers
 - [ARK: Survival Evolved](/ark-fjordur)
