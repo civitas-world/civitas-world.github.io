@@ -1,4 +1,14 @@
-# Hello World
+## What is civitas.world?
+We're a small community-oriented game server hosting group, organized primarily via our [discord server](https://discord.gg/TqNrfxav5G). We host games of interest to our community and some small technical projects related to developing them.
 
-This is the place where someone says hello to you, and you say it back.
-This is a pointless edit for the sake of creating a commit action.
+## Games
+Currently running servers:
+- ARK: Survival Evolved
+- Minecraft 
+- Foundry Virtual Tabletop (available by schedule only)
+
+## News
+### 2022-07-27: Minecraft v1.19 server opening day
+  Minecraft is back with a v1.19.1 server, now with Bedrock client compatibility. Server modifications are very minimal, but [Vane](https://oddlama.github.io/vane/) is back with its custom enchants and small Quality of Life improvements.
+### 2022-07-01: ARK: Survival Evolved server opening day
+  Running the Fjordur map with several quality of life modifications, the ARK server is now online for community access.
