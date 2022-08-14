@@ -5,6 +5,7 @@ Server addresses are posted in the [discord](https://discord.civitas.world/) and
 
 ## Mod Documentation Links
 - [Vane](https://oddlama.github.io/vane/)
+- [mcMMO](https://wiki.mcmmo.org/skills)
 
 ## Compatibility Notes
 For this server we have enabled Bedrock client compatibility using [GeyserMC](https://geysermc.org/) to allow those using "Bedrock Edition" (avilable on Windows 10, iOS, Android, and console) to play along with the Java Edition players on our server. Due to differences in compatibility there may be some additional features (eg custom potions, enchants, and items) that are not available or do not appear correctly to Bedrock users.

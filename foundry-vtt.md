@@ -12,3 +12,6 @@ The members of the House of the Gentle Thickness seek a friend abducted by a str
 
 ### Brackenport (private game) - Wednesdays at 8pm (New York Time)
 The Museum of World Wonders in the beautiful city of Brackenport has hired two groups of unlikely heroes who alternate each week exploring the hidden conflicts in this homebrewed setting for 5th Edition D&D.
+
+### Spelljammer Academy (private game) - No regular schedule
+Madcap hijinks and ships flying through space are the themes of this four-adventure series released by D&D Beyond.

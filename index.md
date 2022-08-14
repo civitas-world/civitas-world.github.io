@@ -8,6 +8,10 @@ We're a small community-oriented game server hosting group, organized primarily 
 - FiveM (offline, development shelved for now)
 
 ## News
+### 2022-08-13: Added mcMMO to Minecraft
+  By popular vote of the Minecraft Users the mcMMO plugin has been added to the server. Documentation for minecraft updated to link to the main mcMMO skills wiki.
+### 2022-08-11: Spelljammer Academy opens on the Foundry Virtual Tabletop
+  A small band of adventurers on their way to sailing the Wildspace between the worlds must first deal with a far greater foe: school-based bureaucracy! 
 ### 2022-07-27: Documentation site release
   This is it! The thing you're reading right now! Documentation and resources for all the games and services under the civitas.world umbrella.
 ### 2022-07-26: Minecraft v1.19 server opening day
