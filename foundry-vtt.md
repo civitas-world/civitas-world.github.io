@@ -14,4 +14,4 @@ The members of the House of the Gentle Thickness seek a friend abducted by a str
 The Museum of World Wonders in the beautiful city of Brackenport has hired two groups of unlikely heroes who alternate each week exploring the hidden conflicts in this homebrewed setting for 5th Edition D&D.
 
 ### Spelljammer Academy (private game) - No regular schedule
-Madcap hijinks and ships flying through space are the themes of this four-adventure series released by D&D Beyond.
+A small band of adventurers on their way to sailing the Wildspace between the worlds must first deal with a far greater foe: school-based bureaucracy! Madcap hijinks and ships flying through space are the themes of this four-adventure series released by D&D Beyond.
