@@ -8,6 +8,8 @@ We're a small community-oriented game server hosting group, organized primarily 
 - FiveM (offline, development shelved for now)
 
 ## News
+### 2022-08-23: Main website update
+  The main website was finally updated from "coming soon" to link to this documentation and the discord. I guess this means we're finally open!
 ### 2022-08-13: Added mcMMO to Minecraft
   By popular vote of the Minecraft Users the mcMMO plugin has been added to the server. Documentation for minecraft updated to link to the main mcMMO skills wiki.
 ### 2022-08-11: Spelljammer Academy opens on the Foundry Virtual Tabletop
